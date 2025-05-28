@@ -3,7 +3,7 @@
     Modifies the registry settings for Microsoft's Cryptography and Wintrust to enable certificate padding checks.
 
 .NOTES
-    Author        : [Steven Noel Cruz]
+    Author        : Kyle Davis
     Date Created  : [01/13/2025]
     Last Modified : [01/13/2025]
     Version       : 1.0
